@@ -12,8 +12,8 @@ This project demonstrates left shift blinking of 8 LEDs using the AT89C51 microc
 - Proteus 8
 
 ## Files
-- 8led alt1.c – Embedded C source code
-- 8led alt1.uvproj – Keil project file
+- 8led ls.c – Embedded C source code
+- 8led ls.uvproj – Keil project file
 - STARTUP.A51 – Startup file
 - Circuit.png – Proteus circuit diagram
 
