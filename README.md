@@ -17,5 +17,4 @@ This project demonstrates left shift blinking of 8 LEDs using the AT89C51 microc
 - STARTUP.A51 – Startup file
 - Circuit.png – Proteus circuit diagram
 
-## Author
-Thulasi Sankar
+
